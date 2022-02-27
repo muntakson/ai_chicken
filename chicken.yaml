@@ -5,8 +5,8 @@
 #이 화일 이름은 chicken.yaml 이다
 # yolov5/data 폴더에 업로드 하시오
 
-train: ../images/train/
-val: ../images/val/
+train: /content/images/train/
+val: /content/images/val/
 
 nc: 1
 
