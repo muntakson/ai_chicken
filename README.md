@@ -371,5 +371,6 @@ https://youtu.be/JMpAo1GysWc
 ### 설문지
 
 https://forms.gle/QMfxgMMTPNwEMpem8
-  
-  
+ 
+ thanks
+ 
