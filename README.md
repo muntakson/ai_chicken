@@ -1,6 +1,6 @@
 
 # *** 인공지능 닭장 캠프 ***
-![alt text](https://github.com/joyinstech/ai_chcien/blob/main/ai_chicken_coop_photo_night.jpg)
+![alt text](https://github.com/muntakson/ai_chcien/blob/main/ai_chicken_coop_photo_night.jpg)
 ## - 장소: 포항 제철 공업 고등학교, 2021.5
 ## - 주최: Joy Institute of Technology 적정기술 연구소, 경주시, 한국
 
