@@ -1,0 +1,13 @@
+
+#   2021 제철공고 AI캠프 - 인공지능 닭장 만들기
+#     주최 : Joy Institute of Technology
+#
+#이 화일 이름은 chicken.yaml 이다
+# yolov5/data 폴더에 업로드 하시오
+
+train: ../images/train/
+val: ../images/val/
+
+nc: 1
+
+names: ['chicken']
